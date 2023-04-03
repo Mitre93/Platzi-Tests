@@ -1,0 +1,98 @@
+¿Cuál es el resultado de la siguiente operación?
+
+20
+2.
+¿Qué es una ecuación?
+Dos expresiones separadas por el signo de igualdad y que tienen exactamente el mismo valor.
+3.
+Es el resultado de sumar (2x+y+1) más (2x⁶-y+1)
+2x⁶+2x+2
+4.
+Es el resultado de factorizar por agrupación de términos la expresión am-2m+an-2n:
+(m+n)(a-2) 
+
+
+5.
+Es el resultado de factorizar 1-36x^2 y^2
+(6xy+1)(-6xy+1)
+6.
+SI x+y+z=2
+-x+3y+2z=8
+4x+y=4 Encontrar el valor de x, y y z.
+x = 0 y = 4 z = -2
+
+
+7.
+Encontrar las raíces de la ecuación X^2-6X=0
+x1=6 X2=0
+8.
+ggplot2 y dplyr pertenecen a:
+R
+9.
+¿Cuándo usamos la expresión GROUP BY de SQL?
+Siempre que una variable dentro de SELECT no esté agrupada.
+10.
+Las técnicas de storytelling nos permiten:
+Estructurar nuestros análisis de una manera más eficiente.
+11.
+Fusionar información cuantitativa y cualitativa nos ayuda a interpretar características categóricas de usuarios, operaciones y conjuntos de datos. Esta afirmación es:
+Verdadera
+12.
+¿Para qué sirve la minería de texto?
+Para encontrar información nueva a través de la exploración de nuestros datos.
+13.
+Crear análisis con un nivel geográfico de alta agregación (países, continentes) puede incurrir en conclusiones sesgadas o erróneas. Esta afirmación es:
+Verdadera
+14.
+¿Esencialmente qué hace una Data Engineer?
+Toma datos que no han sido procesados, los limpia/transforma y almacena para que estén listos para análisis.
+15.
+¿Cuál es el paso más importante en el proceso de la ciencia de datos?
+Definir mi pregunta o caso de negocio
+16.
+¿Cómo se le llama al periodo de tiempo donde la matemática no era constituida por símbolos ni abstracciones y se escribía con palabras?
+Matemática anotada
+
+
+17.
+¿Cuáles de los siguientes conjuntos son parte de la clasificación de números?
+Naturales, enteros, racionales, irracionales, reales y complejos.
+18.
+¿Cuál es el resultado de 4! ÷ 2! ?
+12
+19.
+¿La resta o diferencia de conjuntos es conmutativa, es decir, siendo A y B dos conjuntos, la operación A-B es igual a hacer B-A?
+Falso
+20.
+¿El domicilio de una persona moral es un dato personal?
+No
+21.
+¿De qué sector viene la responsabilidad de preservación de la información?
+Sector público y privado
+22.
+Para prevenir un crimen, ¿de qué o quiénes pueden estudiarse patrones de su información?
+Todas las opciones aplican.
+23.
+Los atajos en Excel son iguales en Mac, o si manejas Office en inglés o en Español.
+Falso
+24.
+¿Cuál de las siguientes afirmaciones es falsa?
+Al insertar una tabla aparece un cuadro de texto para asignar el nombre.
+25.
+¿Cómo se pueden ordenar datos de manera personalizada?
+Desde la ficha fórmulas - > ordenar. Se selecciona la columna, y los niveles.
+26.
+¿De qué sería un ejemplo utilizar datos de movilidad para crear una semaforización inteligente en una ciudad?
+Data4Good
+27.
+¿Cuál es el propósito principal del aprendizaje por refuerzo en inteligencia artificial?
+Aprender de forma autónoma mediante la toma de decisiones y retroalimentación.
+28.
+¿Qué beneficios tiene usar autotrain e inference endpoint de Hugging Face?
+Crear modelos personalizados de NLP con datos propios y desplegarlos fácilmente en la nube; reducir el tiempo y el costo de desarrollo; mejorar la calidad y el rendimiento de los modelos; y aprovechar el ecosistema y la comunidad de Hugging Face.
+29.
+¿Por qué es importante el álgebra lineal en IA?
+Constituye el lenguaje matemático natural para representar numéricamente todo tipo de objetos complejos como imágenes o texto.
+30.
+¿Por qué es necesaria la probabilidad en IA?
+El proceso de optimizar una función para el aprendizaje de un algoritmo siempre trae un grado de incertidumbre, esa incertidumbre se cuantifica con probabilidades.
